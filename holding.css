@@ -1,0 +1,64 @@
+body {
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: #ee0709;
+  color: #fff;
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+h1 img {
+  max-width: 80%;
+  height: auto;
+  padding: 60px 0 40px 0;
+}
+
+h1 span {
+  display: block;
+  font-size: 0.8em;
+  font-weight: 100;
+}
+
+p {
+  font-size: 1.2em;
+  font-weight: 200;
+  padding: 10px 20px 0 20px;
+  line-height: 1.4em;
+}
+
+a {
+  color: #eee;
+}
+
+#mailchimp_signup {
+  margin: 40px;
+}
+
+input {
+  padding: 10px;
+  font-size: 1.2em;
+  font-weight: 200;
+}
+
+input[type=email] { 
+  max-width: 60%;
+  margin-left: 10px;
+  border: 1px solid #939393;
+  background-color: #fcfcfc;
+}
+
+input[type=submit], input[type=submit]:hover {
+  margin-right: 10px;
+  border:1px solid #939393;
+  color: #a10607;
+  background-color:#fff;
+  cursor: pointer;
+}
+
+form {
+  width:500px;
+  margin:0 auto;
+}
