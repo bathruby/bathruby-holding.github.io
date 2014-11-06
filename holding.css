@@ -1,7 +1,7 @@
 body {
   max-width: 600px;
   margin: 0 auto;
-  background-color: #ee0709;
+  background-color: #C82729;
   color: #fff;
   font-family: sans-serif;
 }
@@ -43,7 +43,7 @@ input {
   font-weight: 200;
 }
 
-input[type=email] { 
+input[type=email] {
   max-width: 60%;
   margin-left: 10px;
   border: 1px solid #939393;
